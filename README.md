@@ -2,10 +2,7 @@
 
 I’m **Siva Manikanta** — A Full Stack Developer 💻
 
-<img src="https://github.com/user-attachments/assets/5f5f41da-cb94-4480-98a4-c8630b416447"
-  width="160"
-  align="right"
-  style="border-radius:50%;" />
+
 
 🎓 **B.Tech CSE (3rd Year)**
 🏫 Vignan’s Foundation for Science, Technology and Research
